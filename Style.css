@@ -1,0 +1,38 @@
+table{
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    background-color: green;
+    color: wheat;
+    padding: 10px;
+}
+td{
+    border: 1px solid brown;
+    padding: 5px;
+}
+tr:nth-child(2n-1){
+    background-color: #ddd;
+}
+ul{
+    list-style-type: square;
+}
+p{background-color: aqua;
+}
+span{
+ background-color: aquamarine;   
+}
+/* div{
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 5px; 
+    color: aliceblue; */
+
+.green{
+    background-color: goldenrod;
+}
+.font{
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+    }
